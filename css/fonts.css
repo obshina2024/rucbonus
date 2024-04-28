@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'BalkaraFreeCondensed';
+    font-family: 'Balkara';
     src: url('https://github.com/obshina2024/rucbonus/blob/main/BalkaraFreeCondensed.ttf') format('truetype');
 }
 
 body {
-    font-family: 'BalkaraFreeCondensed', sans-serif;
+    font-family: 'Balkara', sans-serif;
 }
 
 
