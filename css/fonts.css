@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'BalkaraFreeCondensed.ttf';
-    src: url('https://github.com/obshina2024/rucbonus/blob/main/BalkaraFreeCondensed.ttf') format('truetype');
+    src: url('https://github.com/obshina2024/rucbonus/blob/main/BalkaraFreeCondensed.ttf') format('woff2');
+    font-weigt: normal
+    font-stile: normal
 }
 
 body {
